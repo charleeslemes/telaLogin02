@@ -219,6 +219,7 @@ outline: 0;
     background-color: #6b24b3;
     color:white;
     position: relative;
+    font-size: 16px;
 	overflow: hidden;
     display: block;
 }
